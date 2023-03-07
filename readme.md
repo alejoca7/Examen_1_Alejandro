@@ -8,3 +8,7 @@ Paso 8: Se realizaron todos los procesos para que sean ignorados el .txt y la ca
 Paso 9: Se añade archivo index.html en su repositorio local con la estructura basica HMTL
 Paso 10: Se realiza el cambio de nombre de la pagina (Examen Parcial) y se agrega un parrafo que indique "Primer Parcial Análisis de Sistemas"
 Paso 11: Subimos los cambios al repositorio remoto
+Paso 12: Creamos una rama
+Paso 13: Procedemos a subir los cambios al stage
+Paso 14: Se procede a subir los cambios al repositorio remoto
+Paso 15: Se genera los logs en una sola linea de comando 
